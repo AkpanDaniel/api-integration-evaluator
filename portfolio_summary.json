@@ -1,0 +1,19 @@
+{
+  "project": "api-integration-evaluator",
+  "total_samples_evaluated": 50,
+  "avg_score_percent": 0.0,
+  "pass_rate_percent": 0.0,
+  "common_issues_found": [
+    "Step count mismatch (hallucinated steps)",
+    "Missing error handling and idempotency",
+    "Incorrect or generic tool names",
+    "Missing required parameters"
+  ],
+  "key_skills_demonstrated": [
+    "AI plan evaluation (step count, tools, params, error handling)",
+    "Payload improvement & data mapping",
+    "Production workflow design (retries, idempotency, dead-letter queue)",
+    "Batch evaluation at scale",
+    "Handling of edge cases (e.g., empty sequences)"
+  ]
+}
